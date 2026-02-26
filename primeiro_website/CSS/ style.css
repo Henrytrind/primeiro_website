@@ -1,0 +1,15 @@
+body {
+    background-color: #fff;
+
+}
+
+#list1 {
+    color: rgb(42, 190, 190);
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#lorem {
+    color: rgb(69, 214, 219);
+    font-family: cursive;
+    font-size: 20px;
+}
